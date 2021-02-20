@@ -3,12 +3,28 @@
  */
 
 /* google font maybe */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* global variables */
+:root {
+    --bodyColor: #4a525a;
+    --textcolor: #fff;
+    --linkColor: red;
+}
+
 
 /* scrollbar */
+::-webkit-scrollbar {
+    width:1%;
+}
 
-/* font family */
 
 /* left and right wrappers */
+
 
 /* clean float */
 
