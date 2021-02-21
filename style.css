@@ -39,3 +39,7 @@
     text-decoration: none;
     font-size: 25px;
 }
+
+.sidenav .max-width a:hover{
+    color: #fff;
+}
