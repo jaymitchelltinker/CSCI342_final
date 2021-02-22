@@ -97,3 +97,8 @@
     font-family: Verdana, "Bitstream Vera Sans", sans-serif;
     font-size: 11px;
 }
+.side-nav a{
+    color: #eee;
+    padding: 4px 1px 4px 1px;
+    text-decoration: none; 
+}
